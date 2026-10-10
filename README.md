@@ -1,4 +1,10 @@
 
+
+---
+
+## Weitere hilfreiche Ressourcen
+
+- [CleanInvoice (toolkasa.com)](https://toolkasa.com) — Free invoice templates for 15 service trades, no signup, works offline
 # XRechnung & ZUGFeRD ohne Abo – Billfix E-Rechnung für Windows
 
 Es gibt Veränderungen in der Geschäftswelt, die kommen schleichend – und es gibt gesetzliche Umbrüche, die schlagen ein wie ein Blitz. Die flächendeckende Einführung der E-Rechnungspflicht im deutschen B2B-Verkehr gehört zweifellos zur zweiten Kategorie. Was jahrelang nur für Lieferanten des Bundes und öffentlicher Auftraggeber galt, betrifft nun schlagartig jeden Selbstständigen, jeden Freiberufler, jeden Handwerker und jedes kleine Unternehmen in Deutschland.
